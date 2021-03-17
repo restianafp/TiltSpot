@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1046bd4a7b64f1d1f7c0007e417f598a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a869c0ee69fff9fea586aca68c4b54e6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e7dc29784880fd5bfa896d8f43c0d727\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\dd4b3569fce2e90e613d4d6551762717\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\14233023eb9d7dfd6f7ce8596ea3928f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6d42dd47aac01a9a28c22460706402d7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\29d08c0498e8d90f35e5845fb471c09d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f511ee5004fcf41c80a5d13c433c3fcd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b7f8632493a7545fec06ea95c15c0b00\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2200a3511af96613a9fbff146b73c937\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c164804b0095aa56cf5baa98f0ea1b78\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+	package
+		ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:16:11-49
+		INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml
+		INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml
+		ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+		INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml
+		ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:15:1-34:12
+		INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:15:11-69
+application
+ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:18:5-32:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1046bd4a7b64f1d1f7c0007e417f598a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1046bd4a7b64f1d1f7c0007e417f598a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a869c0ee69fff9fea586aca68c4b54e6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a869c0ee69fff9fea586aca68c4b54e6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e7dc29784880fd5bfa896d8f43c0d727\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e7dc29784880fd5bfa896d8f43c0d727\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\dd4b3569fce2e90e613d4d6551762717\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\dd4b3569fce2e90e613d4d6551762717\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\14233023eb9d7dfd6f7ce8596ea3928f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\14233023eb9d7dfd6f7ce8596ea3928f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6d42dd47aac01a9a28c22460706402d7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6d42dd47aac01a9a28c22460706402d7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\29d08c0498e8d90f35e5845fb471c09d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\29d08c0498e8d90f35e5845fb471c09d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f511ee5004fcf41c80a5d13c433c3fcd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f511ee5004fcf41c80a5d13c433c3fcd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b7f8632493a7545fec06ea95c15c0b00\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b7f8632493a7545fec06ea95c15c0b00\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2200a3511af96613a9fbff146b73c937\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2200a3511af96613a9fbff146b73c937\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c164804b0095aa56cf5baa98f0ea1b78\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c164804b0095aa56cf5baa98f0ea1b78\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:21:9-41
+	android:roundIcon
+		ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.android.tiltspot.MainActivity
+ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:25:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:27:17-68
+	android:name
+		ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml
+INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1046bd4a7b64f1d1f7c0007e417f598a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1046bd4a7b64f1d1f7c0007e417f598a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a869c0ee69fff9fea586aca68c4b54e6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a869c0ee69fff9fea586aca68c4b54e6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e7dc29784880fd5bfa896d8f43c0d727\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e7dc29784880fd5bfa896d8f43c0d727\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\dd4b3569fce2e90e613d4d6551762717\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\dd4b3569fce2e90e613d4d6551762717\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\14233023eb9d7dfd6f7ce8596ea3928f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\14233023eb9d7dfd6f7ce8596ea3928f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6d42dd47aac01a9a28c22460706402d7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6d42dd47aac01a9a28c22460706402d7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\29d08c0498e8d90f35e5845fb471c09d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\29d08c0498e8d90f35e5845fb471c09d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f511ee5004fcf41c80a5d13c433c3fcd\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f511ee5004fcf41c80a5d13c433c3fcd\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b7f8632493a7545fec06ea95c15c0b00\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b7f8632493a7545fec06ea95c15c0b00\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2200a3511af96613a9fbff146b73c937\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2200a3511af96613a9fbff146b73c937\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c164804b0095aa56cf5baa98f0ea1b78\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c164804b0095aa56cf5baa98f0ea1b78\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml
+INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1046bd4a7b64f1d1f7c0007e417f598a\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml
+		ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml
+		INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml
+		ADDED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml
+		INJECTED from D:\college\Sem 4\P.PAB 2\TiltSpot_start\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1046bd4a7b64f1d1f7c0007e417f598a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e7dc29784880fd5bfa896d8f43c0d727\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e7dc29784880fd5bfa896d8f43c0d727\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\dd4b3569fce2e90e613d4d6551762717\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\dd4b3569fce2e90e613d4d6551762717\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\14233023eb9d7dfd6f7ce8596ea3928f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\14233023eb9d7dfd6f7ce8596ea3928f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6d42dd47aac01a9a28c22460706402d7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6d42dd47aac01a9a28c22460706402d7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\29d08c0498e8d90f35e5845fb471c09d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\29d08c0498e8d90f35e5845fb471c09d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f511ee5004fcf41c80a5d13c433c3fcd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f511ee5004fcf41c80a5d13c433c3fcd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b7f8632493a7545fec06ea95c15c0b00\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b7f8632493a7545fec06ea95c15c0b00\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2200a3511af96613a9fbff146b73c937\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2200a3511af96613a9fbff146b73c937\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1046bd4a7b64f1d1f7c0007e417f598a\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1046bd4a7b64f1d1f7c0007e417f598a\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c164804b0095aa56cf5baa98f0ea1b78\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c164804b0095aa56cf5baa98f0ea1b78\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ninin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c164804b0095aa56cf5baa98f0ea1b78\AndroidManifest.xml:26:13-58

@@ -1,0 +1,4 @@
+#Wed Mar 17 07:34:46 ICT 2021
+base.0=D\:\\college\\Sem 4\\P.PAB 2\\TiltSpot_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
